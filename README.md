@@ -1,5 +1,5 @@
 # Friends List App
 
-Hello my name is Saravna
+Hello my name is Saravana
 
-This is my Ruby in Rails Friends List App!
+This is my Ruby nn Rails Friends List App!

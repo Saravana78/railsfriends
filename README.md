@@ -2,4 +2,4 @@
 
 Hello my name is Saravana
 
-This is my Ruby nn Rails Friends List App!
+This is my Ruby on Rails Friends List App!
